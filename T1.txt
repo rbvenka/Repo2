@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F801-CC6C
+
+ Directory of C:\Users\IT\Desktop\MyProject
+
+05/09/2021  11:26 AM    <DIR>          .
+05/09/2021  11:26 AM    <DIR>          ..
+05/02/2021  12:41 PM                22 index.html
+05/09/2021  11:25 AM               504 sheet.csv
+05/09/2021  11:26 AM                 0 T1.txt
+05/09/2021  10:42 AM               454 Test.txt
+05/02/2021  12:41 PM                 9 test1.txt
+               5 File(s)            989 bytes
+               2 Dir(s)  203,495,489,536 bytes free
